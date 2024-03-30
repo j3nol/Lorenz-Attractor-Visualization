@@ -7,7 +7,7 @@ This Processing sketch visualizes the Lorenz attractor, a mathematical model tha
 To run the visualization, you need to have Processing installed on your system. You can download Processing from [the official website](https://processing.org/download/).
 
 1. Clone or download this repository to your local machine.
-2. Open the `Main.pde` file in Processing.
+2. Open the `Main.java` file in Processing.
 3. Click the "Run" button or press `Ctrl + R` to execute the sketch.
 4. Interact with the visualization using the mouse to rotate the camera view.
 
